@@ -1,0 +1,11 @@
+# Netflix Clone Multi-Agent Project
+
+## Architecture Blueprint
+- /frontend: React.js + Tailwind CSS (UI & Video Player)
+- /backend: Node.js + Express (Authentication & Video APIs)
+- /streaming-server: HLS/FFmpeg (Video transcoding & distribution)
+
+## Agent Allocation
+- Agent 1 (UI/UX Explorer): Responsible for Frontend setup.
+- Agent 2 (DB & Auth Specialist): Responsible for Backend & MongoDB setup.
+- Agent 3 (Media Streaming Expert): Responsible for HLS Video Pipeline.
